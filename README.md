@@ -9,5 +9,5 @@
 
 ## Environments
 
-* Unix (Mac)
+* UNIX (OS X)
 * HTML5
