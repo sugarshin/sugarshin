@@ -11,3 +11,7 @@
 
 * UNIX (OS X)
 * HTML5
+
+## Jobs
+
+* TSUMIKI INC. (2014-)
