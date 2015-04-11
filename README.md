@@ -3,9 +3,9 @@
 ## Languages
 
 * JavaScript
-  * CoffeeScript
-  * Node.js (studying)
-* Ruby (studying)
+  * Node (studying)
+* Ruby
+  * Ruby on Rails (studying)
 
 ## Environments
 
@@ -14,4 +14,5 @@
 
 ## Jobs
 
-* TSUMIKI INC. (2014-)
+* TSUMIKI INC. (2014/04-)
+* ye11ow graphic studio japan (2013/01-)
