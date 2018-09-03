@@ -2,18 +2,24 @@
 
 ## Languages
 
-* JavaScript
-  * Node (studying)
-* Ruby
-  * Ruby on Rails (studying)
+- JavaScript
+  - CoffeeScript
+  - TypeScript
+  - Node.js
+  - React
+- Ruby
+  - Ruby on Rails
+- Go
 
 ## Environments
 
-* UNIX (OS X)
-* HTML5
+- UNIX (macOS)
+- HTML5
 
 ## Jobs
 
-* Oneteam Inc. (2016/04-)
-* TSUMIKI INC. (2014/04-)
-* ye11ow graphic studio japan (2013/01-)
+- Software Engineer - Mercari, Inc. (2018/09-)
+- Advisor - Oneteam Inc. (2018/09-)
+- Engineer - Oneteam Inc. (2016/04-2018/08)
+- Front-end Engineer - TSUMIKI INC. (2014/04-2016/03)
+- Designer - ye11ow graphic studio japan (2013/01-2014/03)
