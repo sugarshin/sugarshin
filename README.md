@@ -18,7 +18,7 @@
 
 ## Jobs
 
-- Software Developer, Co-Founder - instance0, inc. (2018/12-)
+- Software Developer and Co-Founder - instance0, inc. (2018/12-)
 - Software Engineer - Mercari, Inc. (2018/09-)
 - Advisor - Oneteam Inc. (2018/09-2018/12)
 - Engineer - Oneteam Inc. (2016/04-2018/08)
