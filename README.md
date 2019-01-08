@@ -1,26 +1,34 @@
-# Profile
+# sugarshin
 
-## Languages
+## Project setup
+```
+npm install
+```
 
-- JavaScript
-  - CoffeeScript
-  - TypeScript
-  - Node.js
-  - React
-- Ruby
-  - Ruby on Rails
-- Go
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-## Environments
+### Compiles and minifies for production
+```
+npm run build
+```
 
-- UNIX (macOS)
-- HTML5
+### Run your tests
+```
+npm run test
+```
 
-## Jobs
+### Lints and fixes files
+```
+npm run lint
+```
 
-- Software Developer, Co-Founder - instance0, inc. (2018/12-)
-- Software Engineer - Mercari, Inc. (2018/09-)
-- Advisor - Oneteam Inc. (2018/09-2018/12)
-- Engineer - Oneteam Inc. (2016/04-2018/08)
-- Front-end Engineer - TSUMIKI INC. (2014/04-2016/03)
-- Designer - ye11ow graphic studio japan (2013/01-2014/03)
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
