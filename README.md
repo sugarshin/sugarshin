@@ -7,9 +7,11 @@
   - TypeScript
   - Node.js
   - React
+  - Vue
 - Ruby
   - Ruby on Rails
 - Go
+- PHP
 
 ## Environments
 
@@ -18,8 +20,9 @@
 
 ## Jobs
 
+- Software Developer - LINE Corporation (2020/06-)
 - Software Developer and Co-Founder - instance0, inc. (2018/12-)
-- Software Engineer - Mercari, Inc. (2018/09-)
+- Software Engineer - Mercari, Inc. (2018/09-2020/05)
 - Advisor - Oneteam Inc. (2018/09-2018/12)
 - Engineer - Oneteam Inc. (2016/04-2018/08)
 - Front-end Engineer - TSUMIKI INC. (2014/04-2016/03)
