@@ -12,11 +12,11 @@
   - Ruby on Rails
 - Go
 - PHP
+- Python
 
 ## Environments
 
 - UNIX (macOS)
-- HTML5
 
 ## Jobs
 
