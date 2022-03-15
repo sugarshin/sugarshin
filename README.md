@@ -1,3 +1,3 @@
-<div align="center">
-  <a href="https://sugarshin.net/"><img src="https://apiflash-proxy.vercel.app/"></a>
-</div>
+# Yo
+
+[![sugarshin.net](https://img.shields.io/badge/sugarshin.net-323b43?style=flat-square)](https://sugarshin.net/) [![HitCount](https://hits.dwyl.com/sugarshin/sugarshin.svg?style=flat-square)](http://hits.dwyl.com/sugarshin/sugarshin)
