@@ -17,9 +17,9 @@
 
 ## Jobs
 
-- Software Engineer and Engineering Manager - LINE Corporation (2022/04-)
+- Engineering Manager - LINE Corporation (2022/04-)
 - Software Engineer - LINE Corporation (2020/06-)
-- Software Developer and Co-Founder - instance0, inc. (2018/12-)
+- Software Developer and Co-Founder - instance0, inc. (2018/12-2022/12)
 - Software Engineer - Mercari, Inc. (2018/09-2020/05)
 - Advisor - Oneteam Inc. (2018/09-2018/12)
 - Engineer - Oneteam Inc. (2016/04-2018/08)
