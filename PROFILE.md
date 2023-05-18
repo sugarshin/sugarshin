@@ -5,6 +5,7 @@
 - JavaScript
   - CoffeeScript
   - TypeScript
+- Shell Script
 - Go
 - Ruby
   - Ruby on Rails
