@@ -153,6 +153,8 @@ Lerna v4 v5, webpack v1-, Rollup, Vue v2, Vuex, CircleCI, GitHub Actions, Spinna
 
 - 2022-05-11, 登壇: [【LINEミニアプリ】LIFF Deep Dive【LIFFプラグインリリース記念】](https://linedevelopercommunity.connpass.com/event/242678/)
   - [YouTube - 【LINEミニアプリ】LIFF Deep Dive【LIFFプラグインリリース記念】](https://youtu.be/-WBUOB81dJc)
+- 2022-03-20, 登壇: フロントエンドエンジニア 座談会 - プラットフォームの開発に携わるエンジニアたちの話
+  - [ログミーTech - 開発者向けサービス、歴史の長いサービス、フロントエンド組織のDevOps 3つの立場のフロントエンジニアが語る、開発の難しさと魅力](https://logmi.jp/tech/articles/326260)
 
 ### 2021年
 
