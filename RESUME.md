@@ -145,7 +145,7 @@ PHPモノリスで開発されているCSツールの機能要件の実装や、
 
 業務利用経験のあるものを羅列します。
 
-Lerna v4 v5, webpack v1-, Rollup, Vue v2, Vuex, CircleCI, GitHub Actions, Spinnaker, React v0.13-, Electron v1, Next.js v5 v9, Docker, Kubernetes, MySQL, Redis, Apollo Client, Ruby on Rails v4 v5, Gin, Firebase Realtime Database, Firestore, Firebase Hosting, Terraform v0.12-, Nuxt v2, nginx, Redux, Prisma, Express, EC2, S3, CloudFront, Lambda, GCS, GAE, GCR, Cloud Build, GKE, Datadog, BugSnag, Sentry
+Apollo Client, BugSnag, CircleCI, Cloud Build, CloudFront, Datadog, Docker, EC2, Electron v1, Express, Firebase Hosting, Firebase Realtime Database, Firestore, GAE, GCR, GCS, Gin, GitHub Actions, GKE, Kubernetes, Lerna v4 v5, Lambda, MySQL, Next.js v5 v9, Nuxt v2, nginx, Prisma, React v0.13-, Redis, Redux, Ruby on Rails v4 v5, Rollup, S3, Sentry, Spinnaker, Terraform v0.12-, Vue v2, Vuex, webpack v1-
 
 ## 活動
 
