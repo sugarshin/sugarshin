@@ -10,7 +10,9 @@
 
 独学でデザインとプログラミングを学びながら、2012年までフリーランスとして様々な職種を経験したのちに、有限会社イエロー・グラフィック・ステューディオ・ジャパンに入社。マークアップやWebデザイン、グラフィックデザイン、DTP、動画制作などの経験を積む。2014年、株式会社つみきに入社。[Filmarks](https://filmarks.com/)の開発や受託Webサイト制作に従事。2016年、[株式会社Oneteam](https://lp.one-team.com/ja/about/)（事業譲渡済み）に入社。業務コラボレーションソフトウェアの開発に従事。開発チームリードを経験。2018年、株式会社メルカリにソフトウェアエンジニアとして入社。[CSツールのリアーキテクチャ](https://engineering.mercari.com/blog/entry/2019-12-14-110000/)や、[メルカリWebのリアーキテクチャ](https://engineering.mercari.com/blog/entry/20220830-15d4e8480e/)、メルペイでいくつかのマイクロサービスの立ち上げや開発などに携わる。2018年末にインスタンスゼロ株式会社を共同創業。受託ソフトウェア開発に従事。2020年、LINE株式会社にソフトウェアエンジニアとして入社。主に[LIFF](https://developers.line.biz/ja/services/liff/)と[LINEログイン](https://developers.line.biz/ja/services/line-login/)の開発に携わり、2022年、エンジニアリングマネージャに就任。
 
-### エンジニアリングマネージャ, LINE株式会社, 2022年04月 - 現在
+### エンジニアリングマネージャ, LINEヤフー株式会社, 2023年10月 - 現在
+
+### エンジニアリングマネージャ, LINE株式会社, 2022年04月 - 2023年09月
 
 エンジニアリングマネージャとして、[LIFF](https://developers.line.biz/ja/services/liff/)と[LINEログイン](https://developers.line.biz/ja/services/line-login/)、LINE公式[LINEミニアプリ](https://developers.line.biz/ja/services/line-mini-app/)の開発に携わる最大4人のチームの設計や採用、ピープルマネジメントに従事。
 
@@ -22,7 +24,7 @@
 - 採用業務
   - 新卒および中途採用の技術試験採点と1次面接
 
-### ソフトウェアエンジニア, LINE株式会社, 2020年06月 - 現在
+### ソフトウェアエンジニア, LINE株式会社, 2020年06月 - 2023年09月
 
 #### [LIFF](https://developers.line.biz/ja/services/liff/)
 
