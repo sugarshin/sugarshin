@@ -19,7 +19,7 @@
 
 具体的にチームが担っているのは、社内プライベートクラウド上に構築されたオブジェクトストレージとCDNサービスのラッパープロダクトや、OSS ([Verdaccio](https://github.com/verdaccio/verdaccio)) を利用した社内用のnpmパッケージレジストリ、また、Kubernetesをベースにした、社内用Node.jsアプリケーションプラットフォーム (PaaS) や、OSS ([Renovate](https://github.com/renovatebot/renovate)) を利用した社内開発者用パッケージアップデート検知システムなどの開発・運用です。
 
-技術をリードする役割のメンバーをチームに置き、エンジニアリングマネージャとして技術的側面以外の以下のような役割を担っています。
+技術をリードする役割をメンバーが担い、自分はエンジニアリングマネージャとして技術的側面以外の以下のような役割を担っています。
 
 - ティーチングやコーチングによるメンバーの支援
 - メンバーとの対話によるコンディションサポートやモチベーションマネジメント
@@ -32,7 +32,7 @@
 ### エンジニアリングマネージャ, LINE株式会社（現　LINEヤフー株式会社）, 2022年04月 - 現在
 
 - EM: 1名（自分）
-- SWE (Frontend): 3名
+- SWE (Frontend): 2 ~ 3名
 
 エンジニアリングマネージャとして、[LIFF](https://developers.line.biz/ja/services/liff/)と[LINEログイン](https://developers.line.biz/ja/services/line-login/)、LINE公式[LINEミニアプリ](https://developers.line.biz/ja/services/line-mini-app/)の開発に携わるチームの設計や採用、ピープルマネジメントに従事しています。
 
@@ -43,7 +43,7 @@
 - チーム目標設計・運用
 - 採用業務
   - 新卒採用の1次面接
-  - 中途採用の書類選考・技術試験採点・1次面接
+  - 中途採用の職務記述書の作成・書類選考・技術試験採点・1次面接
 
 ### ソフトウェアエンジニア, LINE株式会社（現　LINEヤフー株式会社）, 2020年06月 - 2023年09月
 
@@ -53,7 +53,7 @@
 - SWE (Backend): 2 ~ 4名
 - SWE (iOS, Android): 2 ~ 3名
 - PM: 1 ~ 3名
-- QA: 2 ~ 5名
+- QA: 2 ~ 4名
 
 #### [LIFF](https://developers.line.biz/ja/services/liff/)
 
@@ -84,7 +84,7 @@ LINEアカウントを使ったソーシャルログインサービスのWebフ�
   - 依存ライブラリのアップデート自動検知ツール
 - GitHub ActionsのSelf-hosted runnerの構築および運用
 - Terraformによる各担当領域のインフラのコード化
-- 社内用データ分析基盤で管理している分析ダッシュボードをWeb UIベースの手作業による管理と更新からコードによる管理へと移行するためのツールの考察および立案、開発
+- 社内用データ分析基盤で管理している分析ダッシュボードをWeb UIベースの手作業による管理と更新からコードによる管理へと移行するためのツールの考察および立案、PoC開発
 
 ### 共同創業者兼ソフトウェアエンジニア, インスタンスゼロ株式会社, 2018年12月 - 2022年12月
 
@@ -96,7 +96,7 @@ LINEアカウントを使ったソーシャルログインサービスのWebフ�
 
 様々な顧客から請けたWebアプリケーション開発に従事し、主にWebフロントエンドの設計および実装を担当しました。
 
-- 技術選定、設計、実装
+- Webフロントエンドの技術選定、設計、実装
 
 ### ソフトウェアエンジニア, 株式会社メルカリ, 2018年09月 - 2020年05月
 
@@ -118,7 +118,7 @@ PHPモノリスで開発されているCSツールの機能要件の実装や、
 - メルカリWeb（PHPモノリス）の機能要件の実装
 - メルカリWebのリアーキテクチャ
   - 機能要件および非機能要件の実装
-  - リリース用Slack Botの企画、設計および実装
+  - リリース用Slackbotの企画、設計および実装
 
 ### ソフトウェアエンジニア（出向）, 株式会社メルペイ, 2019年01月 - 2019年06月
 
@@ -135,14 +135,15 @@ PHPモノリスで開発されているCSツールの機能要件の実装や、
 
 ### テクニカルアドバイザー, 株式会社Oneteam, 2018年09月 - 2018年12月
 
-同社退職後に提供ソフトウェアの仕様や技術面でのサポートを目的とし、アドバイザーとして従事しました。
+同社退職後にプロダクトの仕様や技術面でのサポートを目的とし、アドバイザーとして従事しました。
 
 ### ソフトウェアエンジニア, 株式会社Oneteam, 2016年04月 - 2018年08月
 
-- PM: 1名
-- SWE: 3 ~ 8名（自分）
-- Designer: 1名
-- QA: 1名
+- 開発チーム
+  - PM: 1名
+  - SWE: 3 ~ 8名（自分）
+  - Designer: 1名
+  - QA: 1名
 
 業務用コレボレーションソフトウェアの開発に従事し、主にWebアプリケーション版とElectronによるデスクトップアプリケーション版の設計や開発を担当しました。Design Docによる設計・承認フローや、スクラムによるアジャイル開発を経験し、在籍途中から開発チームリードとして、開発チームとしての意思決定の主導や開発フローの見直し等を実施しました。
 
@@ -190,11 +191,11 @@ PHPモノリスで開発されているCSツールの機能要件の実装や、
 
 ソフトウェアエンジニアとして、Webフロントエンドに関わるアーキテクチャ設計や技術選定および配信インフラやCI/CDパイプラインまで含めた一気通貫での設計、実装、構築が可能です。また、小規模のWebシステム全体のアーキテクチャ設計から実装まで行うことができます。
 
-これまで技術選定や設計、実装に直接的に携わった主な直近の業務を日付降順にまとめます。
+これまでに技術選定や設計、実装に直接的に携わった主な直近の業務を日付降順にまとめます。
 
 #### Terraformによる担当領域のインフラとGitHub orgの管理のコード化, 2024年
 
-あるWebアプリケーションの開発をチームで担当することをきっかけに、社内プライベートクラウドにProjectを作成するにあたって、利用するリソースとGitHub orgの管理をTerraform化しました。自分も含めTerraformの専門性がそこまで高くないチームでも管理維持していきやすいように、Resourceの書き方やディレクトリ構成を工夫し、GitHub Actionsによるplan, applyの自動化を行いました。
+あるWebアプリケーションの開発をチームで担当することをきっかけに、社内プライベートクラウドにProjectを作成するにあたって、利用するリソースとGitHub orgの管理をTerraform化しました。Terraformの専門性がそこまで高くないチームでも管理維持していきやすいように、Resourceの書き方やディレクトリ構成を工夫し、GitHub Actionsによるリンティング, plan, applyの自動化を行いました。
 
 - 利用技術: Terraform, terraform-provider-github, GitHub Actions
 - 深く触れた技術: Terraform, GitHub Actions
@@ -210,16 +211,16 @@ ref: [LIFF SDKを拡張できるLIFFプラグイン機能を追加しました](
 
 #### GitHub IssuesとJira Issuesの相互連携システム, 2022年
 
-チームの課題からうまれたシステムで、企画・設計・開発すべてを担当しました。Namespace as a Serviceにあたる社内用Kubernetesサービスをインフラとして、チケットの連携状態をRDBで管理し、GitHubとJiraからのWebhookを受けるバックエンドをGitHub Appとして実装しました。Webアプリケーションを構築するためのKubernetesマニフェストを一から書き、リリースの自動化も含めて対応しました。アプリケーションはDDDに基づき設計・実装し、厳密さを優先するために静的解析ツールでディレクトリや依存関係のリンティングを施しました。ORMとして[prisma](https://github.com/prisma/prisma)を採用し、各Webhookを受ける実装は、GitHubは[probot](https://github.com/probot/probot)を利用し、Jiraは[express](https://github.com/expressjs/express)で自前で実装しました。また、[probotへのコントリビューション](https://github.com/probot/probot/pull/1645)を行いました。
+チームの課題からうまれたシステムで、企画・設計・開発すべてを担当しました。社内で提供されているNamespace as a ServiceにあたるKubernetesサービスをインフラとして、チケットの連携状態をRDBで管理し、GitHubとJiraからのWebhookを受けるバックエンドをGitHub Appとして実装しました。Webアプリケーションを構築するためのKubernetesマニフェストを一から書き、リリースの自動化も含めて対応しました。アプリケーションはDDDに基づき設計・実装し、厳密さを求めて静的解析ツールでディレクトリや依存関係のリンティングを施しました。ORMとして[Prisma](https://github.com/prisma/prisma)を採用し、各Webhookを受ける実装は、GitHubは[Probot](https://github.com/probot/probot)を利用し、Jiraは[Express](https://github.com/expressjs/express)で自前で実装しました。また、アプリケーションの課題を解決するために、[Probotへのコントリビューション](https://github.com/probot/probot/pull/1645)を行いました。
 
 - 利用技術: TypeScript, Probot, Express, Prisma, CircleCI, Docker, Kubernetes, MySQL
 - 深く触れた技術: Probot, CircleCI
 
 #### Renovateの構築・運用, 2021年
 
-所属組織用の[Renovate](https://github.com/renovatebot/renovate)を構築しました。[Renovate公式のHelm chart](https://github.com/renovatebot/helm-charts)を利用し、Namespace as a Serviceにあたる社内用Kubernetesサービス上に構築しました。OSSコントリビューションもいくつかしています。[renovatebot/renovate](https://github.com/renovatebot/renovate/pulls?q=is%3Apr+is%3Aclosed+author%3Asugarshin), [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts/pulls?q=is%3Apr+author%3Asugarshin+is%3Aclosed)
+所属組織用の[Renovate](https://github.com/renovatebot/renovate)を構築しました。[Renovate公式のHelm chart](https://github.com/renovatebot/helm-charts)を利用し、社内で提供されているNamespace as a ServiceにあたるKubernetesサービス上に構築しました。同時期に、RenovateのOSSに対してコントリビューションもいくつかしています。[renovatebot/renovate](https://github.com/renovatebot/renovate/pulls?q=is%3Apr+is%3Aclosed+author%3Asugarshin), [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts/pulls?q=is%3Apr+author%3Asugarshin+is%3Aclosed)
 
-- 利用技術: Renovate, Kubernetes
+- 利用技術: Renovate, Kubernetes, Helm
 - 深く触れた技術: Renovate
 
 #### リリース用Slackbotの企画・設計・実装, 2020年
@@ -231,14 +232,14 @@ ref: [LIFF SDKを拡張できるLIFFプラグイン機能を追加しました](
 
 #### ランディングページ配信のためのマイクロサービス構築, 2019年
 
-メルペイの各種キャンペーンで配信するランディングページのためのマイクロサービスを、社内のマイクロサービス基盤を利用して構築しました。フレームワークはNuxtを利用し、画面の要件でバックエンドでの認証処理が必要だったため、SSRで実装しました。SREやMicroservice Platformチームのサポートを受けながら、Deploymentなどの一部Kubernetesリソースの管理やオンコールも担当しました。
+メルペイの各種キャンペーンで配信するランディングページのためのマイクロサービスを、社内のマイクロサービス基盤を利用して構築しました。WebアプリケーションフレームワークはNuxtを利用し、画面の要件でバックエンドでの認証処理が必要だったため、SSRで実装しました。SREやMicroservice Platformチームのサポートを受けながら、Deploymentなどの一部Kubernetesリソースの管理やオンコールも担当しました。
 
 - 利用技術: TypeScript, Nuxt, Kubernetes
 - 深く触れた技術: Nuxt
 
 #### CSツールのリアーキテクチャ, 2018年
 
-巨大なCSツールの一部機能を切り出し、マイクロサービスでリアーキテクチャするプロジェクトでFrontendサービスの技術選定・設計・実装を担当し基盤を構築しました。 ref: [Frontend Service | 商品通報対応をgRPCとGraphQLとReactでリプレースしてみた](https://engineering.mercari.com/blog/entry/2019-12-14-110000/#:~:text=%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82-,Frontend%20Service,-%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
+巨大なCSツールの一部のドメインを切り出し、マイクロサービスでリアーキテクチャするプロジェクトでFrontendサービスの技術選定・設計・実装を担当し基盤を構築しました。 ref: [Frontend Service | 商品通報対応をgRPCとGraphQLとReactでリプレースしてみた](https://engineering.mercari.com/blog/entry/2019-12-14-110000/#:~:text=%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82-,Frontend%20Service,-%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 
 フロントエンドアプリケーションはSPAとして実装し、GCSとCloud CDNでフロントエンドアセットを配信するシンプルな設計です。インフラの選定やアプリケーションの設計、技術選定を担当しました。
 
@@ -247,7 +248,7 @@ ref: [LIFF SDKを拡張できるLIFFプラグイン機能を追加しました](
 
 #### toB SaaSの開発, 2016 - 2018年
 
-業務コラボレーションソフトウェアのWebアプリ版、デスクトップアプリ版の設計・開発を担当しました。ReactによるSPAで、リアルタイム性が高く非常に複雑な画面遷移と状態管理を伴うアプリケーションでした。[Draft.js](https://github.com/facebookarchive/draft-js)を利用して、オリジナルのWYSIWYGエディタを実装しました。[Draft.jsの周辺ツールをいくつも自作しています](https://github.com/sugarshin?tab=repositories&q=draft-js)。
+業務コラボレーションソフトウェアのWebアプリ版、デスクトップアプリ版の設計・開発を担当しました。ReactによるSPAで、リアルタイム性が高く非常に複雑な画面遷移と状態管理を伴うアプリケーションでした。[Draft.js](https://github.com/facebookarchive/draft-js)を利用して、オリジナルのWYSIWYGエディタを実装しました。[Draft.jsの周辺ツールをいくつも自作し](https://github.com/sugarshin?tab=repositories&q=draft-js)、プロダクトに取り込んでいました。
 
 - 利用技術: JavaScript, React, Redux, CircleCI, Electron, Draft.js
 - 深く触れた技術: React, Redux, CircleCI, Draft.js
