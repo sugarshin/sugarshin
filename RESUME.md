@@ -34,7 +34,7 @@
 - EM: 1名（自分）
 - SWE (Frontend): 2 ~ 3名
 
-エンジニアリングマネージャとして、[LIFF](https://developers.line.biz/ja/services/liff/)と[LINEログイン](https://developers.line.biz/ja/services/line-login/)、LINE公式[LINEミニアプリ](https://developers.line.biz/ja/services/line-mini-app/)の開発に携わるチームの設計や採用、ピープルマネジメントに従事しています。
+エンジニアリングマネージャとして、[LIFF](https://developers.line.biz/ja/services/liff/)と[LINEログイン](https://developers.line.biz/ja/services/line-login/)、LINE公式[LINEミニアプリ](https://developers.line.biz/ja/services/line-mini-app/)のWebフロントエンド領域の開発に携わるチームの設計や採用、ピープルマネジメントに従事しています。
 
 - ティーチングやコーチングによるメンバーの支援
 - メンバーとの対話によるコンディションサポートやモチベーションマネジメント
